@@ -1,0 +1,6 @@
+@ConsolidationService.API_HostAddress = http://localhost:5057
+
+GET {{ConsolidationService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
